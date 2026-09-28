@@ -1,5 +1,7 @@
 # ZhuaTech Excel Insight｜知华科技Excel 智能筛选系统
 
+[简体中文](README.md) | [English](README.en.md)
+
 ZhuaTech Excel Insight 是上海如静知华信息科技有限公司面向“表格数据分析”场景推出的社区源码项目。面向业务人员的 Excel 数据筛选、异常发现与结果导出系统。用自然语言配置筛选口径，并保留字段、规则和结果快照。
 
 [知华科技官网](https://www.zhuatech.cn/) · Java 包名 `cn.zhuatech.excelinsight` · API `POST /api/excelinsight/run`
